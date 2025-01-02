@@ -1,2 +1,2 @@
 # Cansy
-C++ GDI trojan by red-wipet
+made by red-wipet
